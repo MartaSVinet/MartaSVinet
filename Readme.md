@@ -20,6 +20,6 @@
 - 🥅 2021 goals: practice my skills and creativity
 - ⚡ Fun facts: I love to read, play D&D and watch Anime.
 
-# I have to let you know: 
+## I have to let you know: 
 
-### You are going to find some unfinished projects, some of then really rudimentary, but i refuse to improve them, cause learning process isn't flawless, and i want to keep them as a constant reminder that i started knewing nothing, but know im getting better 
+### You are going to find some unfinished projects, some of them really rudimentary, but i refuse to improve them, cause learning process isn't flawless, and i want to keep them as a constant reminder that i started knewing nothing, but know im getting better. 
