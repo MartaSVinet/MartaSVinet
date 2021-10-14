@@ -22,4 +22,4 @@
 
 ## I have to let you know: 
 
-### You are going to find some unfinished projects, some of them really rudimentary, but i refuse to improve them, cause learning process isn't flawless, and i want to keep them as a constant reminder that i started knewing nothing, but gitnow im getting better. 
+### You are going to find some unfinished projects, some of them really rudimentary, but i refuse to improve them, cause learning process isn't flawless, and i want to keep them as a constant reminder that i started knewing nothing, but now im getting better. 
