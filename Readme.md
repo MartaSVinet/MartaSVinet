@@ -14,10 +14,10 @@
 
 ## I'm a Wife, Mother, Developer, and activist!!
 
-- 🔭 I just got out of Laboratoria <3
+- 🔭 I'm a Laboratorian <3
 - 🌱 I’m currently learning everything i can 
 - 👯 I’m a fan of improving myself
-- 🥅 2021 goals: practice my skills and creativity
+- 🥅 2023 goals: practice my skills and creativity
 - ⚡ Fun facts: I love to read, play D&D and watch Anime.
 
 ## I have to let you know: 
