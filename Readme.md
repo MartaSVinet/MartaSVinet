@@ -15,11 +15,11 @@
 ## I'm a Wife, Mother, Developer, and activist!!
 
 - 🔭 I'm a Laboratorian <3
-- 🌱 I’m currently learning everything i can 
+- 🌱 I’m currently learning everything I can 
 - 👯 I’m a fan of improving myself
 - 🥅 2023 goals: practice my skills and creativity
 - ⚡ Fun facts: I love to read, play D&D and watch Anime.
 
 ## I have to let you know: 
 
-### You are going to find some unfinished projects, some of them really rudimentary, but i refuse to improve them, cause learning process isn't flawless, and i want to keep them as a constant reminder that i started knewing nothing, but now im getting better. 
+### You are going to find some unfinished projects, some of them really rudimentary, but I refuse to improve them, cause learning process isn't flawless, and I want to keep them as a constant reminder that I started knewing nothing, but now Im getting better. 
