@@ -12,10 +12,10 @@
 
 ### 👩🏻‍💻 About Me
 - 💼 QA Analyst | Frontend Developer | Activist | Mother
-- 🌱 Constantly learning and improving
-- 🛠 Currently enhancing my React & Testing skills
-- 🧠 Passionate about clean code, inclusive tech & open knowledge
-- 📚 Big fan of D&D, anime, and epic novels
+- 🧪 QA con experiencia en **pruebas manuales**, control de calidad en proyectos **ágiles** y migraciones de sistemas complejos
+- 🧠 Me enfoco en garantizar la calidad desde la empatía con el usuario y la colaboración con el equipo de desarrollo
+- 🌱 Actualmente perfeccionando habilidades en **automatización** y **testing con Jest**
+- 💬 Me apasiona el código limpio, accesible y significativo
 
 ---
 
@@ -40,21 +40,15 @@
   <a href="https://www.linkedin.com/in/marta-sandoval-vinet/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/rowanmayfair13/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/rowan.mayfair.79" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" alt="Facebook"/>
-  </a>
 </p>
 
 ---
 
 ### 🧩 Disclaimer
 
-> 🚧 You will find **unfinished** and **rough** projects here.  
-> I leave them as-is because they remind me that every expert was once a beginner. Growth isn't linear, and neither is code. 🌱  
-> This is my journey — feel free to scroll through it.
+> 🚧 Encontrarás proyectos sin terminar y con errores.  
+> No los borro porque son parte del proceso: comencé sabiendo nada y hoy entiendo más.  
+> **Valoro mi camino de aprendizaje** y dejo huella de él.
 
 ---
 
